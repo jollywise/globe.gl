@@ -43,7 +43,7 @@
     "accessor-fn": "1",
     "kapsule": "^1.13",
     "three": "0.154",
-    "three-globe": "^2.21",
+    "three-globe": "2.27.4",
     "three-render-objects": "^1.26"
   },
   "devDependencies": {
